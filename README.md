@@ -8,6 +8,7 @@ My Name is Elias Debaveye. I am mostly a web developer. But give me some other s
  - 💻📱 HTML, CSS, JS (Responsive web design and development)
  - 🐍 Python
  - 🤝 Helping peeps
+ - 📸 Photography
 
 ## My work
 Visit my website:
