@@ -1,17 +1,12 @@
+# Gezellligheid
 
-## Debaveye Elias
-### Hello 🌍
-My Name is Elias Debaveye. I am mostly a web developer. But give me some other stuff to do, and I most likely will!
+Hi there, I am Elias, also know as Gezellligheid.
+A full-stack developer with an eye for detail.
 
 ## Skills
 
- - 💻📱 HTML, CSS, JS (Responsive web design and development)
- - 🐍 Python
- - 🤝 Helping peeps
- - 📸 Photography
-
-## My work
-Visit my website:
-🌍 https://www.elieuiltjes.com
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DebaveyeEliasProjects&show_icons=true&theme=dark)](https://elieuiltjes.com)
+- [x] ⚛️ReactJS 
+- [x] TailwindCSS
+- [x] Typescript
+- [x] ASP .NET Core (Mvc)
+- [x] Databases
