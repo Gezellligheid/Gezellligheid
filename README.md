@@ -5,7 +5,7 @@ A full-stack developer with an eye for detail.
 
 ## Skills
 
-- [x] Vue3
+- [x] 🌑Vue3
 - [x] ⚛️ReactJS 
 - [x] TailwindCSS
 - [x] Typescript
